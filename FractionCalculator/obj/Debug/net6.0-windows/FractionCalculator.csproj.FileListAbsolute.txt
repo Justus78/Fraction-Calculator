@@ -1,0 +1,17 @@
+C:\Users\Matt\Desktop\FractionCalculator\FractionCalculator\obj\Debug\net6.0-windows\FractionCalculator.csproj.AssemblyReference.cache
+C:\Users\Matt\Desktop\FractionCalculator\FractionCalculator\obj\Debug\net6.0-windows\FractionCalculator.frmFractionCalculator.resources
+C:\Users\Matt\Desktop\FractionCalculator\FractionCalculator\obj\Debug\net6.0-windows\FractionCalculator.csproj.GenerateResource.cache
+C:\Users\Matt\Desktop\FractionCalculator\FractionCalculator\obj\Debug\net6.0-windows\FractionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\Desktop\FractionCalculator\FractionCalculator\obj\Debug\net6.0-windows\FractionCalculator.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\FractionCalculator\FractionCalculator\obj\Debug\net6.0-windows\FractionCalculator.AssemblyInfo.cs
+C:\Users\Matt\Desktop\FractionCalculator\FractionCalculator\obj\Debug\net6.0-windows\FractionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\FractionCalculator\FractionCalculator\bin\Debug\net6.0-windows\FractionCalculator.exe
+C:\Users\Matt\Desktop\FractionCalculator\FractionCalculator\bin\Debug\net6.0-windows\FractionCalculator.deps.json
+C:\Users\Matt\Desktop\FractionCalculator\FractionCalculator\bin\Debug\net6.0-windows\FractionCalculator.runtimeconfig.json
+C:\Users\Matt\Desktop\FractionCalculator\FractionCalculator\bin\Debug\net6.0-windows\FractionCalculator.dll
+C:\Users\Matt\Desktop\FractionCalculator\FractionCalculator\bin\Debug\net6.0-windows\FractionCalculator.pdb
+C:\Users\Matt\Desktop\FractionCalculator\FractionCalculator\obj\Debug\net6.0-windows\FractionCalculator.dll
+C:\Users\Matt\Desktop\FractionCalculator\FractionCalculator\obj\Debug\net6.0-windows\refint\FractionCalculator.dll
+C:\Users\Matt\Desktop\FractionCalculator\FractionCalculator\obj\Debug\net6.0-windows\FractionCalculator.pdb
+C:\Users\Matt\Desktop\FractionCalculator\FractionCalculator\obj\Debug\net6.0-windows\FractionCalculator.genruntimeconfig.cache
+C:\Users\Matt\Desktop\FractionCalculator\FractionCalculator\obj\Debug\net6.0-windows\ref\FractionCalculator.dll
